@@ -1,13 +1,9 @@
-## Introduction
-
-Stock price forecasting is a critical task in financial analysis, enabling investors and traders to make informed decisions. This project explores the application of various machine learning models, including Long Short-Term Memory (LSTM), Autoregressive Integrated Moving Average (ARIMA), and Prophet, to predict stock prices based on historical data. Additionally, it includes an algorithm to classify market regimes.
-
 ## Project Structure
 
 Here's a brief overview of the project's structure:
 
 ```plaintext
-stock-price-forecasting/
+forecasting/
 ├── data/                   # Contains raw and processed datasets
 │   ├── raw/                # Raw data files
 │   └── processed/          # Processed data files
