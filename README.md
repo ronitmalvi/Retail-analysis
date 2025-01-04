@@ -1,16 +1,3 @@
-# stock-price-fiesta 
-A project to forecast stock prices and identify market regimes using advanced machine learning techniques. Basically, a Stock Price Forecasting and Market Regime Identification project
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Stock price forecasting is a critical task in financial analysis, enabling investors and traders to make informed decisions. This project explores the application of various machine learning models, including Long Short-Term Memory (LSTM), Autoregressive Integrated Moving Average (ARIMA), and Prophet, to predict stock prices based on historical data. Additionally, it includes an algorithm to classify market regimes.
